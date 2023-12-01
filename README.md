@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=JSCODER1-hub&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=CoDeBrEaKe&style=flat-square&color=green)
 
 # Hi, Welcome I'm Mohamed Medhat,
 
@@ -48,15 +48,15 @@ I'm constantly learning and exploring new technologies to improve my skills and 
 ## Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JSCODER1-hub&show_icons=true&locale=en&layout=compact" alt="JSCODER1-hub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoDeBrEaKe&show_icons=true&locale=en&layout=compact" alt="CoDeBrEaKe" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JSCODER1-hub&show_icons=true&locale=en" alt="JSCODER1-hub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoDeBrEaKe&show_icons=true&locale=en" alt="CoDeBrEaKe" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JSCODER1-hub&" alt="JSCODER1-hub" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CoDeBrEaKe&" alt="CoDeBrEaKe" />
 </p>
 
 ## Get in Touch 📬
@@ -65,6 +65,6 @@ I'm always excited to collaborate on interesting projects or discuss web develop
 
 - 💼 LinkedIn: [Mohamed Medhat](https://www.linkedin.com/in/mohamed-medhat-236575230/)
 
-- 🌐 Website: [My Portfolio Website](https://jscoder1-hub.github.io/my-portofolio/)
+- 🌐 Website: [My Portfolio Website](https://CoDeBrEaKe.github.io/my-portofolio/)
 
 Let's connect and create amazing web experiences together! ✨
