@@ -65,6 +65,6 @@ I'm always excited to collaborate on interesting projects or discuss web develop
 
 - 💼 LinkedIn: [Mohamed Medhat](https://www.linkedin.com/in/mohamed-medhat-236575230/)
 
-- 🌐 Website: [My Portfolio Website](https://CoDeBrEaKe.github.io/my-portofolio/)
+- 🌐 Website: [My Portfolio Website]((https://jscoder1-hub.github.io/my-portofolio/))
 
 Let's connect and create amazing web experiences together! ✨
